@@ -1,6 +1,4 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FzVeTwDagAEBh2A?format=jpg&name=medium)
-<h1 align="center" style="color:red;">Raisha Fairose Epa</h1>
-<h3 align="center">I'm a passionate programmer and would be Software Engineer</h3>
 
 
 ## 🌐 Socials:
