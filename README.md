@@ -1,4 +1,4 @@
-<h1 align="center"style="color:red"> Raisha Fairose Epa </h1>
+<h1 align="center" style="color:red;">Raisha Fairose Epa</h1>
 <h3 align="center">I'm a passionate programmer and would be Software Engineer</h3>
 
 
