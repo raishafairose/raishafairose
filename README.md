@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-**raishafairose/raishafairose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a passionate programmer and would be software engineer with a love for crafting innovative solutions.
 I thrive on challenges and enjoy diving deep into complex problems to find elegant and efficient solution.
 When I'm not coding, you can find me doing music. 
