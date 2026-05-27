@@ -1,7 +1,7 @@
 <p align="center">
   <img src="raisha_github_cover_tech.svg" width="100%" alt="cover gif"/>
 </p>
-# About Me:
+
 I’m a passionate learner with strong interests in technology, cybersecurity, programming, and machine learning. I enjoy exploring how systems work, solving technical problems, and building practical projects such as smart parking solutions using AI and computer vision. Alongside my technical journey, I focus on improving my academic and professional skills through continuous learning and certifications like the ECBA. I’m detail-oriented, curious, and always motivated to turn ideas into real-world solutions while growing both personally and professionally.<br>
 
 
