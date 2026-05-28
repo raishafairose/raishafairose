@@ -2,6 +2,7 @@
   <img src="raisha_wave_cover.gif" width="100%" alt="cover gif"/>
 </p>
 
+## About:
 I’m a passionate learner with strong interests in technology, cybersecurity, programming, and machine learning. I enjoy exploring how systems work, solving technical problems, and building practical projects such as smart parking solutions using AI and computer vision. Alongside my technical journey, I focus on improving my academic and professional skills through continuous learning and certifications like the ECBA. I’m detail-oriented, curious, and always motivated to turn ideas into real-world solutions while growing both personally and professionally.<br>
 
 
@@ -18,7 +19,7 @@ I’m a passionate learner with strong interests in technology, cybersecurity, p
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raishafairose&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
